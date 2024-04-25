@@ -21,6 +21,9 @@ This Java application allows users to read and manage RSS feeds from various web
    ```
 4. Follow the on-screen instructions to interact with the RSS reader application.
 
+   ![image](https://github.com/MohammadrezaSheikholeslami84/RSS-Reader-Java/assets/166950228/a5dc2f2d-7cb2-4b86-954d-019d5c70393a)
+
+
 ## How it Works:
 - The application reads and manages website URLs and their corresponding RSS feeds.
 - It uses Jsoup for HTML parsing and fetching website content.
