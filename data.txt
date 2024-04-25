@@ -1,0 +1,11 @@
+Bandit Algorithms;https://banditalgs.com/index.html;https://banditalgs.com/feed/;
+کافه‌بوک | معرفی کتاب‌ | رمان خوب;https://kafebook.ir/index.html;https://kafebook.ir/feed/;
+Python-bloggers;https://python-bloggers.com/index.html;https://python-bloggers.com/feed/;
+بلاگ - Frozen Fireball;https://azsan.ir/blog/index.html;https://azsan.ir/feed/;
+TechCrunch | Startup and Technology News;https://techcrunch.comindex.html;https://techcrunch.com/feed/;
+Science of Running – An in depth look at training, coaching, Sport Science, and anything else that relates to enhancing endurance performance.;https://scienceofrunning.comindex.html;;
+Archive - Ahead of AI;https://magazine.sebastianraschka.com/archiveindex.html;https://magazine.sebastianraschka.com/feed;
+Archive - NLP News;https://newsletter.ruder.io/archiveindex.html;https://newsletter.ruder.io/feed;
+ruder.io;https://www.ruder.io/index.html;https://www.ruder.io/rss/;
+Statistical Modeling, Causal Inference, and Social Science;https://statmodeling.stat.columbia.edu/index.html;https://statmodeling.stat.columbia.edu/feed/;
+Cay Horstmann's Unblog;https://horstmann.com/unblog/index.html;https://horstmann.com/unblog/rss.xml;
