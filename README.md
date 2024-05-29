@@ -2,6 +2,7 @@
 # RSS Reader
 
 This Java application allows users to read and manage RSS feeds from various websites. It provides functionalities to show updates from multiple websites that is stored on a file, add new URLs, remove existing URLs, and more.
+When you add or remove a url it automaticly adds and removes that url to "data.txt" file and your list will be updated for the next usage.
 
 ## Features:
 -  $\textcolor{green}{Show \ Updates :\}$ View the latest updates from selected websites or all websites.
