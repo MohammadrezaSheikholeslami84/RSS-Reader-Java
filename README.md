@@ -4,7 +4,8 @@
 This Java application allows users to read and manage RSS feeds from various websites. It provides functionalities to show updates from multiple websites, add new URLs, remove existing URLs, and more.
 
 ## Features:
-- **Show Updates:** View the latest updates from selected websites or all websites.
+## $\textcolor{green}{Language\ Section :\}$
+-  $\textcolor{green}{Show \ Updates :\} View the latest updates from selected websites or all websites.
 - **Add URL:** Add new website URLs to the list.
 - **Remove URL:** Remove existing website URLs from the list.
 - **Exit:** Close the application.
