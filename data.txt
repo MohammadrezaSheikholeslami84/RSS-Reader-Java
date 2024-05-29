@@ -7,5 +7,4 @@ Science of Running – An in depth look at training, coaching, Sport Science, an
 Archive - Ahead of AI;https://magazine.sebastianraschka.com/archiveindex.html;https://magazine.sebastianraschka.com/feed;
 Archive - NLP News;https://newsletter.ruder.io/archiveindex.html;https://newsletter.ruder.io/feed;
 ruder.io;https://www.ruder.io/index.html;https://www.ruder.io/rss/;
-Statistical Modeling, Causal Inference, and Social Science;https://statmodeling.stat.columbia.edu/index.html;https://statmodeling.stat.columbia.edu/feed/;
-Cay Horstmann's Unblog;https://horstmann.com/unblog/index.html;https://horstmann.com/unblog/rss.xml;
+Cay Horstmann's Unblog;https://horstmann.com/unblogindex.html;https://horstmann.com/unblog/rss.xml;
