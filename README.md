@@ -1,7 +1,7 @@
 
 # RSS Reader
 
-This Java application allows users to read and manage RSS feeds from various websites. It provides functionalities to show updates from multiple websites, add new URLs, remove existing URLs, and more.
+This Java application allows users to read and manage RSS feeds from various websites. It provides functionalities to show updates from multiple websites that is stored on a file, add new URLs, remove existing URLs, and more.
 
 ## Features:
 ## $\textcolor{green}{Language\ Section :\}$
